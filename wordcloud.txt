@@ -1,0 +1,1 @@
+wordcloud(word, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))

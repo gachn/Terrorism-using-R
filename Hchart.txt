@@ -1,0 +1,1 @@
+hchart(economics_long2, "line", hcaes(x = date, y = value01, group = variable),name="xyz")
